@@ -576,8 +576,14 @@ a:hover tt {
     display: none!important;
 }
 
+/* mirai specific */
+
 #mirai h1 {
   font-family : 'Audiowide', cursive;
   text-align  : center;
   font-size   : 400%;
+}
+
+.highlight-python {
+  padding-left: 40px;
 }
